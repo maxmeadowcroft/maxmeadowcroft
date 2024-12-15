@@ -35,7 +35,7 @@ Here are a few of my favorites! More are on the way as I grow my portfolio.
 ### Web Development 🌐  
 - **PythonScale: Community Promotion Site**  
   [GitHub](https://github.com/maxmeadowcroft/PythonDeveloperCommunity) | [Website](https://www.pythonscale.com)
-- **SplashTechForms: A Form Creation and Sharing Tool**
+- **SplashTechForms: A Form Creation and Sharing Tool** 
   [GitHub](https://github.com/maxmeadowcroft/SplashTechForms) | [Site](www.splashtechforms.com)
 
 ### Mobile Development 📱  
