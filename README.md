@@ -1,43 +1,68 @@
-# Hi, I'm Maximus!
+# Hi, I'm Maximus! 👋
 
-Hello, I am finishing up college at New Mexico Tech, expected to graduate in May 2025 with a Bachelors degree in CS. I mostly program Python, but I am proficient in C, C++, HTML, CSS, React, JS, and more. I help people learn Python and progress in it. I make content on social media, have a newsletter, and run a [Python based community](skool.com/coder). If you want to see more about me or some things I am currently up to, here is the [website for the community](www.pythonscale.com), here is my [personal website](www.maxmeadowcroft.com), and here is my [Stan Store](https://stan.store/maximusmeadowcroft) where I have some products (free and paid) as well as resources. 
+🎓 **Finishing up college**: I'm currently at New Mexico Tech, expected to graduate in **May 2025** with a **Bachelor's degree in CS**.  
+🐍 **Languages**: I mostly program in **Python**, but I'm also proficient in **C**, **C++**, **HTML**, **CSS**, **React**, **JS**, and more.  
+🧑‍🏫 **Passionate about teaching**: I help people learn Python and progress in it!  
+📱 **Content creator**: I make content on social media, run a newsletter, and lead a [Python-based community](https://skool.com/coder).  
 
-# What I am currently working on
+🌐 **Learn more about me**:  
+- [Community website 🌟](https://www.pythonscale.com)  
+- [Personal website 🌐](https://www.maxmeadowcroft.com)  
+- [Stan Store 💡](https://stan.store/maximusmeadowcroft) (Free & paid resources)
 
-Currently I am working on building out my portfolio and creating resources and products to help people learn and excell at Python. My main focuses are in growing my newsletter (linked below), adding more value to my content (linked below), and creating cool projects (next section). I am also finishing up college in parallel with this.
+---
 
-# Some of my favorite projects
+# What I'm Currently Working On 🚀
 
-Here are some of my favorit projects I have completed. I am currently working on more for my portfolio so if there are not many here, there will be more soon. 
+🎯 **Main goals**:  
+- Building out my portfolio  
+- Creating resources and products to help others excel at Python  
+- Growing my [newsletter ✉️](https://pythonscale.us9.list-manage.com/subscribe?u=367340ff751e325b3d1718885&id=00e3d88cde)  
+- Adding more value to my [social media content 🎥](https://www.instagram.com/maxmeadowcroft/)  
 
-## Machine Learning
+📚 **Balancing life**: I'm also finishing up college in parallel with these projects.
 
-- **Generative AI that Makes Drum Loops:** [GitHub](https://github.com/maxmeadowcroft/DrumGen) - [Website](www.drumgen.streamlit.app)
+---
 
-## Web Development
+# Some of My Favorite Projects 💻
 
-- **PythonScale Website to promote my community:** [GitHub](https://github.com/maxmeadowcroft/PythonDeveloperCommunity) - [Website](www.pythonscale.com)
+Here are a few of my favorites! More are on the way as I grow my portfolio.  
 
-## Mobile Development
+### Machine Learning 🤖  
+- **Generative AI for Drum Loops**  
+  [GitHub](https://github.com/maxmeadowcroft/DrumGen) | [Website](https://drumgen.streamlit.app)
 
-- **Cookr (an app to help people find recipes):** [GitHub](https://github.com/maxmeadowcroft/Cookr) - Website (Coming Soon when we deploy)
+### Web Development 🌐  
+- **PythonScale: Community Promotion Site**  
+  [GitHub](https://github.com/maxmeadowcroft/PythonDeveloperCommunity) | [Website](https://www.pythonscale.com)
 
-## Desktop Development
+### Mobile Development 📱  
+- **Cookr (Find Recipes)**  
+  [GitHub](https://github.com/maxmeadowcroft/Cookr) | Website: Coming Soon!  
 
-- **Textual Based ToDo App:** [Github](https://github.com/maxmeadowcroft/TextualToDo)
+### Desktop Development 🖥️  
+- **Textual-Based ToDo App**  
+  [GitHub](https://github.com/maxmeadowcroft/TextualToDo)
 
-# My Newsletter
+---
 
-I have a newsletter where I weekly send out emails with Python related information. If you are interested in joining it, here is a [link](https://pythonscale.us9.list-manage.com/subscribe?u=367340ff751e325b3d1718885&id=00e3d88cde).
+# My Newsletter ✉️
 
-# Some YouTube Videos I made
+I send weekly emails with Python-related tips, tricks, and resources.  
+📩 Interested? Join here: [Sign up](https://pythonscale.us9.list-manage.com/subscribe?u=367340ff751e325b3d1718885&id=00e3d88cde).
 
-- **[First Video to My Intro To Python Course](https://www.youtube.com/watch?v=kRwhdFWkz2Q&list=PLHmGz7IUtKVilbjHQuiTfuqpfoGt1oCbp&index=14)**
+---
 
-# How to Reach me
+# Some YouTube Videos I Made 🎥
 
-- **Email:** maxmeadowcroft61@gmail.com
-- **Phone number:** 575-770-4468
-- **X:** [@maxmeadowcroft](https://x.com/maxmeadowcroft)
-- **Instagram:** [@maxmeadowcroft](https://www.instagram.com/maxmeadowcroft/)
-- **LinkedIn:** [Maximus Meadowcroft](https://www.linkedin.com/in/maximus-meadowcroft/)
+- **[Intro to Python Course](https://www.youtube.com/watch?v=kRwhdFWkz2Q&list=PLHmGz7IUtKVilbjHQuiTfuqpfoGt1oCbp&index=14)**
+
+---
+
+# How to Reach Me 📬  
+
+📧 **Email**: maxmeadowcroft61@gmail.com  
+📞 **Phone**: 575-770-4468  
+🐦 **X (Twitter)**: [@maxmeadowcroft](https://x.com/maxmeadowcroft)  
+📸 **Instagram**: [@maxmeadowcroft](https://www.instagram.com/maxmeadowcroft/)  
+💼 **LinkedIn**: [Maximus Meadowcroft](https://www.linkedin.com/in/maximus-meadowcroft/)
