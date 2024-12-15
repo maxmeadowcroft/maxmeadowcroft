@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Maximus!
 
-<!--
-**maxmeadowcroft/maxmeadowcroft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me (Python Developers Community with screen shots)
 
-Here are some ideas to get you started:
+# What I am currently working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Some of my favorite projects
+
+Some Projects I like
+
+# My Newsletter
+
+Python Newsletter with Link and about
+
+# Some YouTube Videos I made
+
+Some YouTube Videos
+
+# How to Reach me
+
+Email Phone Number Etc
+
+Links to all my Social medias
+
