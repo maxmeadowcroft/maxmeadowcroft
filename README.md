@@ -41,9 +41,9 @@ Here are a few of my favorites! More are on the way as I grow my portfolio.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/maxmeadowcroft/gen_ai_drum_generator) | [Website](https://drumgenai.streamlit.app)  
 
 ### Web Development 🌐  
-&nbsp;&nbsp;&nbsp;&nbsp;- **PythonScale: Community Promotion Site**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/maxmeadowcroft/PDC_website) | [Website](https://www.pythonscale.com)  
-&nbsp;&nbsp;&nbsp;&nbsp;- **SplashTechForms: A Form Creation and Sharing Tool**  
+&nbsp;&nbsp;&nbsp;&nbsp;- **PythonScale: Community Promotion Site (Django)**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Website](https://www.pythonscale.com)  
+&nbsp;&nbsp;&nbsp;&nbsp;- **SplashTechForms: A Form Creation and Sharing Tool (Django)**  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/maxmeadowcroft/SplashTechForms) | [Site](https://www.splashtechforms.com)  
 
 ### Mobile Development 📱  
