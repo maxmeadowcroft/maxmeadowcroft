@@ -38,7 +38,7 @@ Here are a few of my favorites! More are on the way as I grow my portfolio.
 
 ### Machine Learning 🤖  
 &nbsp;&nbsp;&nbsp;&nbsp;- **Generative AI for Drum Loops**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/maxmeadowcroft/gen_ai_drum_generator) | [Website](https://drumgen.streamlit.app)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/maxmeadowcroft/gen_ai_drum_generator) | [Website](https://drumgenai.streamlit.app)  
 
 ### Web Development 🌐  
 &nbsp;&nbsp;&nbsp;&nbsp;- **PythonScale: Community Promotion Site**  
