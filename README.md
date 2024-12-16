@@ -4,7 +4,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;I'm currently at New Mexico Tech, expected to graduate in **May 2025** with a **Bachelor's degree in CS**.  
 
 🐍 **Languages**:  
-&nbsp;&nbsp;&nbsp;&nbsp;I mostly program in **Python**, but I'm also proficient in **C**, **C++**, **HTML**, **CSS**, **React**, **JS**, and more.  
+&nbsp;&nbsp;&nbsp;&nbsp;I mostly program in **Python**, but I'm also proficient in **Flutter**, **C**, **C++**, **HTML**, **CSS**, **React**, **JS**, and more.  
 
 🧑‍🏫 **Passionate about teaching**:  
 &nbsp;&nbsp;&nbsp;&nbsp;I help people learn Python and progress in it!  
@@ -16,6 +16,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;- [Community website 🌟](https://www.pythonscale.com)  
 &nbsp;&nbsp;&nbsp;&nbsp;- [Personal website 🌐](https://www.maxmeadowcroft.com)  
 &nbsp;&nbsp;&nbsp;&nbsp;- [Stan Store 💡](https://stan.store/maximusmeadowcroft) (Free & paid resources)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxmeadowcroft&layout=compact&theme=radical)  
 
 ---
 
