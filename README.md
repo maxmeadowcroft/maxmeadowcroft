@@ -51,8 +51,8 @@ Here are a few of my favorites! More are on the way as I grow my portfolio.
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/maxmeadowcroft/Cookr) | Website: Coming Soon!  
 
 ### Desktop Development 🖥️  
-&nbsp;&nbsp;&nbsp;&nbsp;- **Textual-Based ToDo App**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/maxmeadowcroft/TextualToDo)  
+&nbsp;&nbsp;&nbsp;&nbsp;- **Donezo (Textual-Based ToDo App)**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/maxmeadowcroft/Donezo)  
 
 ---
 
