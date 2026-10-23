@@ -6,7 +6,7 @@ I'm a software engineer focused on **Python, machine learning, and building prac
 
 My background spans full-stack development, backend engineering, freelance work, and startup technical leadership. I'm especially interested in the intersection of **deep learning and software engineering**, from training and evaluating models to turning them into applications people can use.
 
-[🌐 Portfolio](https://www.maxmeadowcroft.com) · [💼 LinkedIn](https://www.linkedin.com/in/maximus-meadowcroft/) · [🐍 PythonScale](https://www.pythonscale.com) · [📬 Email](mailto:dev@maxmeadowcroft.com)
+[💼 LinkedIn](https://www.linkedin.com/in/maximus-meadowcroft/) · [🐍 Python Developers Community](https://www.skool.com/coder) · [📬 Email](mailto:maxmeadowcroft61@gmail.com)
 
 ---
 
@@ -64,4 +64,4 @@ I enjoy learning technical concepts deeply, implementing them, and sharing what 
 
 I'm interested in opportunities involving Python engineering, machine learning, and AI-powered software.
 
-[Portfolio](https://www.maxmeadowcroft.com) · [LinkedIn](https://www.linkedin.com/in/maximus-meadowcroft/) · [Get in Touch](mailto:maxmeadowcroft61@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/maximus-meadowcroft/) · [Get in Touch](mailto:maxmeadowcroft61@gmail.com)
