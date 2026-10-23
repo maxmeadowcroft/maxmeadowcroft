@@ -1,89 +1,67 @@
-# Hi, I'm Maximus! 👋  
+# Yo, I'm Maximus! 👋
 
-🎓 **Finishing up college**:  
-&nbsp;&nbsp;&nbsp;&nbsp;I'm currently at New Mexico Tech, expected to graduate in **May 2025** with a **Bachelor's degree in CS**.  
+**Python Software Engineer | Machine Learning & AI**
 
-🐍 **Languages**:  
-&nbsp;&nbsp;&nbsp;&nbsp;I mostly program in **Python**, but I'm also proficient in **Flutter**, **C**, **C++**, **HTML**, **CSS**, **React**, **JS**, and more.  
+I'm a software engineer focused on **Python, machine learning, and building practical AI systems**.
 
-🧑‍🏫 **Passionate about teaching**:  
-&nbsp;&nbsp;&nbsp;&nbsp;I help people learn Python and progress in it!  
+My background spans full-stack development, backend engineering, freelance work, and startup technical leadership. I'm especially interested in the intersection of **deep learning and software engineering**, from training and evaluating models to turning them into applications people can use.
 
-📱 **Content creator**:  
-&nbsp;&nbsp;&nbsp;&nbsp;I make content on social media, run a newsletter, and lead a [Python-based community](https://skool.com/coder).  
-
-🌐 **Learn more about me**:  
-&nbsp;&nbsp;&nbsp;&nbsp;- [Community website 🌟](https://www.pythonscale.com)  
-&nbsp;&nbsp;&nbsp;&nbsp;- [Personal website 🌐](https://www.maxmeadowcroft.com)  
-&nbsp;&nbsp;&nbsp;&nbsp;- [Stan Store 💡](https://stan.store/maximusmeadowcroft) (Free & paid resources)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=maxmeadowcroft&layout=compact&theme=radical)  
+[🌐 Portfolio](https://www.maxmeadowcroft.com) · [💼 LinkedIn](https://www.linkedin.com/in/maximus-meadowcroft/) · [🐍 PythonScale](https://www.pythonscale.com) · [📬 Email](mailto:dev@maxmeadowcroft.com)
 
 ---
 
-# What I'm Currently Working On 🚀  
+## 🧠 What I'm focused on
 
-🎯 **Main goals**:  
-&nbsp;&nbsp;&nbsp;&nbsp;- Building out my portfolio  
-&nbsp;&nbsp;&nbsp;&nbsp;- Creating resources and products to help others excel at Python  
-&nbsp;&nbsp;&nbsp;&nbsp;- Growing my [newsletter ✉️](https://pythonscale.us9.list-manage.com/subscribe?u=367340ff751e325b3d1718885&id=00e3d88cde)  
-&nbsp;&nbsp;&nbsp;&nbsp;- Adding more value to my [social media content 🎥](https://www.instagram.com/maxmeadowcroft/)  
+- **Machine Learning & Deep Learning**: Neural networks, model training, evaluation, and experimentation.
+- **AI Engineering**: Building applications around ML models and deploying useful AI-powered software.
+- **Software Engineering**: Python, backend systems, full-stack applications, and developer tools.
+- **Technical Education**: Making Python and machine learning more accessible through projects and practical explanations.
 
-📚 **Balancing life**:  
-&nbsp;&nbsp;&nbsp;&nbsp;I'm also finishing up college in parallel with these projects.  
+## 🚀 Featured Project
+
+### 🥁 [Generative AI Drum Pattern Generator](https://github.com/maxmeadowcroft/gen_ai_drum_generator)
+
+An interactive application that generates drum patterns using **LSTM and Transformer models**.
+
+Explore different generation parameters, customize drum sounds, and export patterns as WAV or MIDI files.
+
+**Tech:** Python · TensorFlow/Keras · Streamlit · Deep Learning
+
+**[Explore the Code →](https://github.com/maxmeadowcroft/gen_ai_drum_generator)** | **[Try the Live Demo →](https://drumgenai.streamlit.app)**
+
+## 🔬 Currently Exploring
+
+I'm expanding my machine learning engineering skills through hands-on implementation and experimentation.
+
+- Developing deeper expertise in **PyTorch** and neural network training.
+- Building reproducible ML projects with meaningful evaluation and error analysis.
+- Exploring transformers, generative models, and modern AI architectures.
+- Creating interactive ML applications that connect research concepts with practical software.
+
+New projects and technical write-ups are on the way.
+
+## 🛠️ Technologies
+
+**Core:** Python · Git · SQL
+
+**Machine Learning:** PyTorch (current focus) · TensorFlow · Keras
+
+**Software Development:** Django · NextJS · JavaScript · Streamlit
+
+**Additional Experience:** C · C++ · Dart · Flutter
+
+## 👨‍💻 Beyond the Code
+
+I graduated from **New Mexico Tech** with a B.S. in Computer Science in May 2025.
+
+Outside of building software, I run [Python Developers Community](https://www.skool.com/coder), where I help developers improve their Python skills through education, projects, and community.
+
+I enjoy learning technical concepts deeply, implementing them, and sharing what I discover along the way.
 
 ---
 
-# Some of My Favorite Projects 💻  
+**Interested in working together?**
 
-Here are a few of my favorites! More are on the way as I grow my portfolio.  
+I'm interested in opportunities involving Python engineering, machine learning, and AI-powered software.
 
-### Machine Learning 🤖  
-&nbsp;&nbsp;&nbsp;&nbsp;- **Generative AI for Drum Loops**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/maxmeadowcroft/gen_ai_drum_generator) | [Website](https://drumgenai.streamlit.app)  
-
-### Web Development 🌐  
-&nbsp;&nbsp;&nbsp;&nbsp;- **PythonScale: Community Promotion Site (Django)**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Website](https://www.pythonscale.com)  
-&nbsp;&nbsp;&nbsp;&nbsp;- **SplashTechForms: A Form Creation and Sharing Tool (Django)**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/maxmeadowcroft/SplashTechForms) | [Site](https://www.splashtechforms.com)  
-
-### Mobile Development 📱  
-&nbsp;&nbsp;&nbsp;&nbsp;- **Cookr (Find Recipes)**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/maxmeadowcroft/Cookr) | Website: Coming Soon!  
-
-### Desktop Development 🖥️  
-&nbsp;&nbsp;&nbsp;&nbsp;- **Donezo (Textual-Based ToDo App)**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[GitHub](https://github.com/maxmeadowcroft/Donezo)  
-
----
-
-# My Newsletter ✉️  
-
-I send weekly emails with Python-related tips, tricks, and resources.  
-📩 Interested? Join here: [Sign up](https://pythonscale.us9.list-manage.com/subscribe?u=367340ff751e325b3d1718885&id=00e3d88cde).  
-
----
-
-# Some YouTube Videos I Made 🎥  
-
-- **[Intro to Python Course](https://www.youtube.com/watch?v=kRwhdFWkz2Q&list=PLHmGz7IUtKVilbjHQuiTfuqpfoGt1oCbp&index=14)**  
-
----
-
-# How to Reach Me 📬  
-
-📧 **Email**:  
-&nbsp;&nbsp;&nbsp;&nbsp;maxmeadowcroft61@gmail.com  
-
-📞 **Phone**:  
-&nbsp;&nbsp;&nbsp;&nbsp;575-770-4468  
-
-🐦 **X (Twitter)**:  
-&nbsp;&nbsp;&nbsp;&nbsp;[@maxmeadowcroft](https://x.com/maxmeadowcroft)  
-
-📸 **Instagram**:  
-&nbsp;&nbsp;&nbsp;&nbsp;[@maxmeadowcroft](https://www.instagram.com/maxmeadowcroft/)  
-
-💼 **LinkedIn**:  
-&nbsp;&nbsp;&nbsp;&nbsp;[Maximus Meadowcroft](https://www.linkedin.com/in/maximus-meadowcroft/)  
+[Portfolio](https://www.maxmeadowcroft.com) · [LinkedIn](https://www.linkedin.com/in/maximus-meadowcroft/) · [Get in Touch](mailto:maxmeadowcroft61@gmail.com)
